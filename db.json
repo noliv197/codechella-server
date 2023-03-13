@@ -1,11 +1,11 @@
 {
   "tickets": [
     {
-      name: "test",
-      email: "example@gmail.com",
-      type: "Rampa",
-      date: "",
-      id: "RXSDF-2874982A-5SAS546S2"
+      "name": "test",
+      "email": "example@gmail.com",
+      "type": "Rampa",
+      "date": "",
+      "id": "RXSDF-2874982A-5SAS546S2"
     }
   ]
 }
