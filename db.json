@@ -7,6 +7,7 @@
       "showDate": "Sábado - 11/03",
       "cpf": "111.111.111-11",
       "birthDate": "01/01/2005",
+      "qrcode": "https://api.qrserver.com/v1/create-qr-code/?data=RXSDF-2874982A-5SAS546S2",
       "id": "RXSDF-2874982A-5SAS546S2"
     }
   ]
